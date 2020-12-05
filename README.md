@@ -25,6 +25,7 @@ Tables are included in .xls format as described below.
 | [data/Landsat_2016_VI_Tables](data/Landsat_2016_VI_Tables) | Site_#a_VI.xls (# corresponds to the flight number) | Vegetation index (EVI, MSAVI, NDVI, VARI, VIG/GRVI) data derived from a Landsat Surface Reflectance image obtained 31 July 2016 for UAV missions. |
 | [data/Landsat_FVC_tables](data/Landsat_FVC_tables) | L#_DD-MMM-YY_Mod_Cover.xls (# refers to the Landsat sensor) | Modeled FVC for the given image date extracted in 500-m segments along the river from [Landsat FVC images](images/Landsat_FVC) |
 | [data/Landsat_NDVI_Tables](data/Landsat_NDVI_Tables) | L#_DD-MMM-YY_Mod_NDVI.xls (# refers to the Landsat sensor) | NDVI for the given image date extracted in 500-m segments along the river from [Landsat NDVI images](images/Landsat_NDVI) |
+| [data/River_Segments_500m_Labeled.shp](data/River_Segments_500m_Labeled.shp) | | Riparian zone polygon divided into contiguous 500-m segments, labeled in the "POLY" field from upstream to downstream |
 | [data/UAV_FVC_Tables](data/UAV_FVC_Tables) | Site_#a_Cover.xls (# corresponds to the flight number) | FVC extracted from UAV data by Landsat pixel. Used with the [Landsat 2016 VI tables](data/Landsat_2016_VI_Tables) to generate the models in Figs. 6 and 7. |
 
 </span>
