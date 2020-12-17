@@ -33,7 +33,9 @@ Tables are included in .xls format as described below.
 
 ## Images
 
-Landsat NDVI and FVC time series generated from the FVC model (Eq. 7).
+The raw UAV images and orthoimages from each step of the UAV workflow described in Fig. 2 for an example site (Alpha) are available in an accompanying Zenodo repository, [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4328408.svg)](https://doi.org/10.5281/zenodo.4328408). Agisoft processing reports for the RGB and NIR orthoimages for the two missions at this site can be found in the [processing](processing) folder.
+
+Landsat NDVI and FVC time series generated from the FVC model (Eq. 7) are included in the [images](images) folder as described in the table below.
 
 
 
